@@ -19,9 +19,6 @@
     "url": "https://github.com/hexojs/hexo-filter-responsive-images/issues"
   },
   "homepage": "https://github.com/hexojs/hexo-filter-responsive-images#readme",
-  "peerDependencies": {
-    "hexo": "3.x || 4.x || 5.x"
-  },
   "dependencies": {
     "bluebird": "^3.7.2",
     "micromatch": "^4.0.4",
